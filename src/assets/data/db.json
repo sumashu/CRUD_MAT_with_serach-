@@ -1,0 +1,104 @@
+{
+  "productList": [
+    {
+      "id": 1,
+      "productName": "Samsung Gal pro",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 65000,
+      "comment": "Model with Android features",
+      "date": "23/10/2011"
+    },
+    {
+      "id": 2,
+      "productName": "Samsung 112",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 65000,
+      "comment": "Model with Android features",
+      "date": "23/10/2011"
+    },
+    {
+      "id": 3,
+      "productName": "Samsung 127",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 65000,
+      "comment": "Model with Android features",
+      "date": "23/10/2011"
+    },
+    {
+      "id": 4,
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "fresh fruits",
+      "date": "28/1/2022"
+    },
+    {
+      "id": 5,
+      "productName": "PinApple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "fresh fruits",
+      "date": "28/1/2022"
+    },
+    {
+      "id": 6,
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "fresh fruits",
+      "date": "28/1/2022"
+    },
+    {
+      "id": 7,
+      "productName": "Bhendi",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "fresh apple",
+      "date": "28/1/2022"
+    },
+    {
+      "id": 8,
+      "productName": "palak",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "fresh apple",
+      "date": "28/1/2022"
+    },
+    {
+      "productName": "RealMe 10c",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 6500,
+      "comment": "this is my in good condition",
+      "date": "2022-01-26T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "chiku",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 23,
+      "comment": "fresh fruits",
+      "date": "2022-01-26T18:30:00.000Z",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
